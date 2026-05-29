@@ -1,2 +1,2 @@
 # FIRE PUNCH
-![Fire Punch](./punch.webp)
+<img src=./punch.webp width="48">
