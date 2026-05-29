@@ -1,2 +1,2 @@
 # FIRE PUNCH
-<img src=./punch.webp width="150">
+<img src=./punch.webp width="512">
